@@ -9,7 +9,7 @@ Among other things I helped build our Global Helpcenter for our brands that is u
 Currently:
 - Working mostly on Backend side(Python, K8s, Firestore), helping design systems, plan, build and run systems that are Reliable, Available and Maintainable/Extendable.
 - Python, Flask, Javascript, React, GCP, GKE, k8s, Firestore
-- 
+
 <details>
   <summary>Previously on Kamyar 🙈</summary>
   
