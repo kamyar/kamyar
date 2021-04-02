@@ -1,10 +1,10 @@
 Hey there!
 
-I am Kamyar, a Fullstack Engineer 🧙🏽‍♂️. Love to build things 👷🏼‍♂️ and love seeing people enjoy using them 🎉🤩.
-I live in Berlin 🇩🇪 I studied and lived in Ankara 🇹🇷 and I am from Urmia 🇮🇷.
+I am Kamyar, a Fullstack Engineer 🧙🏽‍♂️. Love to build things 👷🏼‍♂️ and love seeing people enjoy using them 🎉🤩.  
+I live in Berlin 🇩🇪 I studied and lived in Ankara 🇹🇷 and I am from Urmia 🇮🇷.  
 
-I am currently working as Senior Software Engineer @ [Delivery Hero](https://www.deliveryhero.com/).
-Among other things I helped build our Global Helpcenter for our brands that is used now in 40+ Countries around the world 🌎🌍🌏. It is both saving costs for us and makes our customers/restaurants/riders happy. 🤩
+I am currently working as Senior Software Engineer @ [Delivery Hero](https://www.deliveryhero.com/).  
+Among other things I helped build our Global Helpcenter for our brands that is used now in 40+ Countries around the world 🌎🌍🌏. It is both saving costs for us and makes our customers/restaurants/riders happy. 🤩  
 
 Currently:
 - Working mostly on Backend side(Python, K8s, Firestore), helping design systems, plan, build and run systems that are Reliable, Available and Maintainable/Extendable.
