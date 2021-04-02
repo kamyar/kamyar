@@ -22,11 +22,11 @@ Currently:
   1. Working in Backend chapter on our main legacy monolith 👨🏼‍🚒, later on moved to a fullstack role in Order Management Service team, helped design, build, run.
   2. Python, Django, Flask, Javascript, Jquery, React, AWS, Docker, PostgresDB
   3. [Techcrunch: Sold to Lieferando](https://techcrunch.com/2018/12/21/takeaway-delivery-hero-gobble-gobble/)
-  #### Scorebeyond
+  #### Software Engineer @ Scorebeyond
   1. Fullstack Engineer helping students ace [SAT](https://en.wikipedia.org/wiki/SAT)/[ACT](https://en.wikipedia.org/wiki/ACT_(test)) exams 📚.
   2. Python, Django, Javascript, React, AWS, MongoDB, PostgresDB
   3. [Techcrunch: Acquired by LinkedIn](https://techcrunch.com/2019/09/17/linkedin-launches-skills-assessments-tests-that-let-you-beef-up-your-credentials-for-job-hunting/)
-  #### ISSD
+  #### Software Engineer @ ISSD
   1. Fullstack Engineer developing a smart junction management system to optimize traffic lights🚦 using image processing.
   2. Qt, C++, Python, Bottel.py, Javascript, Angularjs, OpenCV, Ansible, Systemd, dpkg, Ubuntu/Debian, 
 </details>
