@@ -30,3 +30,6 @@ Currently:
   1. Fullstack Engineer developing a smart junction management system to optimize traffic lights🚦 using image processing.
   2. Qt, C++, Python, Bottel.py, Javascript, Angularjs, D3.js, OpenCV, Ansible, Systemd, dpkg, Ubuntu/Debian, 
 </details>
+
+![](https://komarev.com/ghpvc/?username=kamyar)
+
