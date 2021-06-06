@@ -28,7 +28,7 @@ Currently:
   3. [Techcrunch: Acquired by LinkedIn](https://techcrunch.com/2019/09/17/linkedin-launches-skills-assessments-tests-that-let-you-beef-up-your-credentials-for-job-hunting/)
   #### Software Engineer @ ISSD
   1. Fullstack Engineer developing a smart junction management system to optimize traffic lights🚦 using image processing.
-  2. Qt, C++, Python, Bottel.py, Javascript, Angularjs, D3.js, OpenCV, Ansible, Systemd, dpkg, Ubuntu/Debian, 
+  2. Qt, C++, Python, Bottle.py, Javascript, Angularjs, D3.js, OpenCV, Ansible, Systemd, dpkg, Ubuntu/Debian, 
 </details>
 
 ![](https://komarev.com/ghpvc/?username=kamyar)
