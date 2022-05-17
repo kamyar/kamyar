@@ -3,9 +3,9 @@ Hey there!
 I am Kamyar, a Product driven Software Engineer 🧙🏽‍♂️ @ [Datadog](https://www.datadoghq.com/).
 
 Tech:
-- Python, Django, Flask
-- Javascript, Typescript, React, React Native, D3.js, Redux, Saga
-- Kubernetes, GCP, AWS, GKE
+- Python, Typescript, Go, C++
+- Kubernetes, GCP, AWS
+- React, Django, Flask, React Native, D3.js, Temporal.io
 - PostgreSQL, MongoDB, Firestore
 
 <details>
