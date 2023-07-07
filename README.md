@@ -20,7 +20,7 @@ Tech:
   2. Python, Fastapi, Flask, AWS, Terraform, Kubernetes 
   3. <More to come ✨>
 
-  #### Software Engineer @ [Delivery Hero](https://www.datadoghq.com/)
+  #### Software Engineer @ [Datadog](https://www.datadoghq.com/)
   1. Worked inside the greater Software Delivery App Team on Experiments Platform to actualize the next generation of feature flagging at Datadog. Given the high scale and sensitivity of the projects that would use it, we had a special focus on Scalability, Performance and Developer Experience which as a team of 2 Engineers + TL we managed to deliver and onboard teams. 
   2. Go, React, Python, Kubernetes, Typescript, Terraform, Temporal.io
   3. Collaborated with engineers accross the company to prioritize potential requests depending on the impact and value they will bring.
