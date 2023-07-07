@@ -1,15 +1,29 @@
 Hey there!
 
-I am Kamyar, a Product driven Software Engineer 🧙🏽‍♂️ @ [Datadog](https://www.datadoghq.com/).
+I am Kamyar, a Product driven Software Engineer 🧙🏽‍♂️ @ [Wolt](http://wolt.com/).
 
 Tech:
 - Python, Typescript, Go, C++
 - Kubernetes, GCP, AWS
-- React, Django, Flask, React Native, D3.js, Temporal.io
-- PostgreSQL, MongoDB, Firestore
+- Fastapi, React, Django, Flask, React Native, D3.js, Temporal.io
+- PostgreSQL, MongoDB, Firestore, Redis
 
 <details>
   <summary>Experience</summary>
+
+  #### Software Engineer @ [Wolt](https://wolt.com/)
+  1. Working inside Consumer Platform team and helping teams around us deliver features to our customer more efficiently.
+  2. Python, Fastapi, Flask, AWS, Terraform, Kubernetes 
+  3. <More to come ✨>
+
+  #### Software Engineer @ [Delivery Hero](https://www.datadoghq.com/)
+  1. Worked inside the greater Software Delivery App Team on Experiments Platform to actualize the next generation of feature flagging at Datadog. Given the high scale and sensitivity of the projects that would use it, we had a special focus on Scalability, Performance and Developer Experience which as a team of 2 Engineers + TL we managed to deliver and onboard teams. 
+  2. Go, React, Python, Kubernetes, Typescript, Terraform, Temporal.io
+  3. Collaborated with engineers accross the company to prioritize potential requests depending on the impact and value they will bring.
+  4. Planned, executed and iterated through several Alpha and Beta releases.  
+  5. Experiment Documentation and Developer Experience was praised multiple times both privately and in Engineering All-hands, which eliminated the any need for convincing people as teams clearly experienced the benefits during multiple demos we gave to the wider engineering org.  
+  6. Authored a company wide migration guide book for de-risking service and data migrations.  
+  7. Experiments as of late 2022 was achieving 1M evaluations/min with a 88μs 99 percentile latency without any performance bottlenecks in sight.
 
   #### Senior Software Engineer @ [Delivery Hero](https://https://www.deliveryhero.com/)
   1. Helped design, implement and run our Helpcenter that is serving customers around the world in 40+ coutnries.
