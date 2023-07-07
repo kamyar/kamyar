@@ -1,7 +1,11 @@
-Hey there!
+Hey there! 👋
 
-I am Kamyar, a Product driven Software Engineer 🧙🏽‍♂️ @ [Wolt](http://wolt.com/).
+I am Kamyar, a Software Engineer 🧙🏽‍♂️ with 8 years experience.  
+Currently I am a member of Consumer Platform Team 🥷🏼 @ [Wolt](http://wolt.com/).  
+Previously I have worked at [Delivery Hero](https://www.datadoghq.com/), [Delivery Hero](https://www.datadoghq.com/), [Celo](https://celo.org/) and some other smaller startups.
 
+I enjoy working with nice people, and making useful stuff. :shipit:  
+I have worked across the whole stack (Infra, Backend, Frontend) but still have a special focus on Backend.
 Tech:
 - Python, Typescript, Go, C++
 - Kubernetes, GCP, AWS
